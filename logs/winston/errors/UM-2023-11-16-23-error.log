@@ -1,0 +1,17 @@
+{
+  level: 'error',
+  message: 'Unhandled Rejection or Error f is not defined',
+  stack: 'ReferenceError: f is not defined\n' +
+    '    at G:\\Own\\University-managment\\src\\app.ts:21:15\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at G:\\Own\\University-managment\\src\\app.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (G:\\Own\\University-managment\\src\\app.ts:4:12)\n' +
+    '    at G:\\Own\\University-managment\\src\\app.ts:19:52\n' +
+    '    at Layer.handle [as handle_request] (G:\\Own\\University-managment\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (G:\\Own\\University-managment\\node_modules\\express\\lib\\router\\route.js:144:13)\n' +
+    '    at Route.dispatch (G:\\Own\\University-managment\\node_modules\\express\\lib\\router\\route.js:114:3)\n' +
+    '    at Layer.handle [as handle_request] (G:\\Own\\University-managment\\node_modules\\express\\lib\\router\\layer.js:95:5)',
+  label: 'UM',
+  timestamp: '2023-11-16T17:59:15.568Z'
+}

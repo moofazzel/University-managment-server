@@ -1,0 +1,12 @@
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-10T17:46:42.128Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-10T17:46:42.132Z'
+}

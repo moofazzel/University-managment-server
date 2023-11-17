@@ -1,0 +1,336 @@
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:04:48.421Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:04:48.425Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:05:30.073Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:05:30.076Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:05:43.853Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:05:43.856Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:05:49.349Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:05:49.353Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:06:23.191Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:06:23.195Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:06:39.937Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:06:39.940Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:06:49.116Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:06:49.119Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:06:52.296Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:06:52.299Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:07:44.676Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:07:44.680Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:07:58.828Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:07:58.831Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:08:12.495Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:08:12.498Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:08:47.723Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:08:47.727Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:10:09.805Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:10:09.809Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:10:19.830Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:10:19.834Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:24:25.983Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:24:25.987Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:32:41.933Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:32:41.936Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:34:53.146Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:34:53.150Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:35:32.047Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:35:32.050Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:36:11.061Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:36:11.065Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:36:18.072Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:36:18.075Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:36:22.149Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:36:22.153Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:36:29.302Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:36:29.305Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:36:32.990Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:36:32.994Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:37:34.555Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:37:34.559Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:37:44.792Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:37:44.795Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:37:59.172Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:37:59.175Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:44:03.975Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:44:03.978Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:44:07.844Z'
+}
+{
+  message: 'University management listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-12T12:44:07.847Z'
+}
