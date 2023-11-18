@@ -1,60 +1,60 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "G:\\Own\\University-managment\\logs\\winston\\errors\\.80f2818c9783f46f38c9580b081ef639b86f6643-audit.json",
+  "files": [
+    {
+      "date": 1699638402111,
+      "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-10-23-error.log",
+      "hash": "e17d66d3d7acd6f7df9988925b912a134bf7e722365e33f89b0fb65d0dfa8071"
     },
-    "auditLog": "G:\\Own\\University-managment\\logs\\winston\\errors\\.80f2818c9783f46f38c9580b081ef639b86f6643-audit.json",
-    "files": [
-        {
-            "date": 1699638402111,
-            "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-10-23-error.log",
-            "hash": "e17d66d3d7acd6f7df9988925b912a134bf7e722365e33f89b0fb65d0dfa8071"
-        },
-        {
-            "date": 1699790688401,
-            "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-12-18-error.log",
-            "hash": "752eec9c49e4a019b3cad94bdefb5e333e933bb588881a3129f9af58bc0f3fc2"
-        },
-        {
-            "date": 1699802820086,
-            "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-12-21-error.log",
-            "hash": "1e2dff471c0124cd297038ff624113241fcd1bd15fc7c76f672c84f77f5c185a"
-        },
-        {
-            "date": 1699804831690,
-            "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-12-22-error.log",
-            "hash": "15f7a3138295346625d9c0369f1a9098030a2d880d2f2f8df428d13fa4aa5975"
-        },
-        {
-            "date": 1699989457029,
-            "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-15-01-error.log",
-            "hash": "8f55ba6392cc8d82d96b6b53b819c8473658772db7bbddee791e1404f2b08179"
-        },
-        {
-            "date": 1699993103047,
-            "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-15-02-error.log",
-            "hash": "be8845fcd0060969852354c4eaf36fc9d1b6393d47fed497cd1b456b32d405b2"
-        },
-        {
-            "date": 1700157465312,
-            "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-16-23-error.log",
-            "hash": "da34d624f334a9aa1c6c1ad580b903eafb62cd6b4d5b8fac84ebc8fe66e266a6"
-        },
-        {
-            "date": 1700157637596,
-            "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-17-00-error.log",
-            "hash": "f0aea3df166601d72450bbf8fb7db96e9ce59407ed0f1552646ece2982ee519a"
-        },
-        {
-            "date": 1700161403718,
-            "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-17-01-error.log",
-            "hash": "7c29d25fddcfe27e53722b90e9fe0d1310b69b7a89291f8ce13c3085bd2acdde"
-        },
-        {
-            "date": 1700164887925,
-            "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-17-02-error.log",
-            "hash": "1dad17b62f63a2aa8eec0ce3ea05dc4f548d0c9b168224781fac681db81297f2"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1699790688401,
+      "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-12-18-error.log",
+      "hash": "752eec9c49e4a019b3cad94bdefb5e333e933bb588881a3129f9af58bc0f3fc2"
+    },
+    {
+      "date": 1699802820086,
+      "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-12-21-error.log",
+      "hash": "1e2dff471c0124cd297038ff624113241fcd1bd15fc7c76f672c84f77f5c185a"
+    },
+    {
+      "date": 1699804831690,
+      "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-12-22-error.log",
+      "hash": "15f7a3138295346625d9c0369f1a9098030a2d880d2f2f8df428d13fa4aa5975"
+    },
+    {
+      "date": 1699989457029,
+      "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-15-01-error.log",
+      "hash": "8f55ba6392cc8d82d96b6b53b819c8473658772db7bbddee791e1404f2b08179"
+    },
+    {
+      "date": 1699993103047,
+      "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-15-02-error.log",
+      "hash": "be8845fcd0060969852354c4eaf36fc9d1b6393d47fed497cd1b456b32d405b2"
+    },
+    {
+      "date": 1700157465312,
+      "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-16-23-error.log",
+      "hash": "da34d624f334a9aa1c6c1ad580b903eafb62cd6b4d5b8fac84ebc8fe66e266a6"
+    },
+    {
+      "date": 1700157637596,
+      "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-17-00-error.log",
+      "hash": "f0aea3df166601d72450bbf8fb7db96e9ce59407ed0f1552646ece2982ee519a"
+    },
+    {
+      "date": 1700161403718,
+      "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-17-01-error.log",
+      "hash": "7c29d25fddcfe27e53722b90e9fe0d1310b69b7a89291f8ce13c3085bd2acdde"
+    },
+    {
+      "date": 1700164887925,
+      "name": "G:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-17-02-error.log",
+      "hash": "1dad17b62f63a2aa8eec0ce3ea05dc4f548d0c9b168224781fac681db81297f2"
+    }
+  ],
+  "hashType": "sha256"
 }

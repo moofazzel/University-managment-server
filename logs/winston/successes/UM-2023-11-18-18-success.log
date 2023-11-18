@@ -1,0 +1,36 @@
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-18T12:21:16.339Z'
+}
+{
+  message: 'Server listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-18T12:21:16.343Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-18T12:21:26.195Z'
+}
+{
+  message: 'Server listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-18T12:21:26.199Z'
+}
+{
+  message: 'Database connection established',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-18T12:22:06.104Z'
+}
+{
+  message: 'Server listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-11-18T12:22:06.109Z'
+}
