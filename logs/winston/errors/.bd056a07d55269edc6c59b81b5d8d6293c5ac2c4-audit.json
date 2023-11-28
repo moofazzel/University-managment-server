@@ -19,6 +19,61 @@
             "date": 1700312745406,
             "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-18-19-error.log",
             "hash": "81b2317efc17e719ea54ef8b3dfa4e607de54edc9920a432b3eb68d7b80fd6b2"
+        },
+        {
+            "date": 1700326479422,
+            "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-18-22-error.log",
+            "hash": "1bb58ff04ae269e5655c1a320315367e16988eb7b6e5176d3ad51a85cab36567"
+        },
+        {
+            "date": 1700326824100,
+            "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-18-23-error.log",
+            "hash": "9d3092ef642809ed7eb6d866b28251af302e4dbc770c1f2a5f88cccc35e0b870"
+        },
+        {
+            "date": 1700996552809,
+            "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-26-17-error.log",
+            "hash": "29f24838d3f39439d021b99b62e75aa30ce8bbed8680a5ffff67cf3969f96147"
+        },
+        {
+            "date": 1701001152208,
+            "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-26-18-error.log",
+            "hash": "2f16cd987098842ed6359084e7c97747260d4ca8020b6a1f0ce6737e1457e959"
+        },
+        {
+            "date": 1701019801251,
+            "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-26-23-error.log",
+            "hash": "c3c9c60d5c252faf9460089ef9d36de7d451e3e9f8dfd59caf90155d7d987518"
+        },
+        {
+            "date": 1701021623486,
+            "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-27-00-error.log",
+            "hash": "924da0f6aea3959b612c86cb4c89a286e5a42c837584f55b86cf2b95566d5438"
+        },
+        {
+            "date": 1701186774727,
+            "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-28-21-error.log",
+            "hash": "23d19482d75169c3e216ebfc7d794158a325f8a4c4d8c6f1cd406b025855b5e1"
+        },
+        {
+            "date": 1701187993812,
+            "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-28-22-error.log",
+            "hash": "86fb623be830828afc54577d75911276a8d3f6e9e19432eac61f478258557e61"
+        },
+        {
+            "date": 1701191571542,
+            "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-28-23-error.log",
+            "hash": "f3833ec6de3e999857dca9779f5420628332ace9bf62c07960c6cc4438359fc1"
+        },
+        {
+            "date": 1701194698522,
+            "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-29-00-error.log",
+            "hash": "a40d31dc582a712f68362c2baabe79ead586c0deca525d35c478f25fdd2c3197"
+        },
+        {
+            "date": 1701198020452,
+            "name": "F:\\Own\\University-managment\\logs\\winston\\errors\\UM-2023-11-29-01-error.log",
+            "hash": "3d1ce73c670acd1225388dbab93a93656178eb6638e48c526d458b1c813e0800"
         }
     ],
     "hashType": "sha256"

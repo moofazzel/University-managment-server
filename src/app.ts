@@ -23,4 +23,19 @@ app.get('/', (req: Request, res: Response) => {
 // global error handlers
 app.use(globalErrorHandler);
 
+// Handle not found route
+// app.use((req: Request, res: Response, next: NextFunction) => {
+//   res.status(httpStatus.NOT_FOUND).json({
+//     success: false,
+//     message: 'Not Found',
+//     errorMessages: [
+//       {
+//         path: '',
+//         message: 'Api Not Found',
+//       },
+//     ],
+//   });
+//   next();
+// });
+
 export default app;
